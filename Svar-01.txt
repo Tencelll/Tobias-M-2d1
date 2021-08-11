@@ -1,11 +1,27 @@
 
 4) Angiv seks 'CMD prompt' kommandoer du synes er vigtige,
    med en beskrivelse af hvad de gør.
+   1. cls
+   cls er en kommando der bruges til at rydde skærmbilledet.
+   2. cd
+   cd bruges til at ændre directory
+   3. F6
+   F6 (eller CTRL + Z) bruges til at stoppe en proces, f.eks. skrivningen af tekst-fil.
+   4. shutdown
+   Den kan bruges til at lukke computeren men også styre lukningen.
+   5. cd..
+   cd.. kan bruges til at bevæge sig 1 folder op.
+   6. X:
+   X: (X = Ønskede drive) kan bruges til at skifte drive. For eksempel hvis jeg ville søge mit D drev ville jeg skrive: "D:"
 
 5) I noten 'Hukommelse og glemsel' kan du se en graf.
    Antag du har modtaget ny viden. Hvad kan 'du' forvente at kunne huske efter 2 dage er passeret ?
+Det afhænger dog drastisk af den mængde information jeg modtager, ellers cirka 25%.
 
 6) I noten 'Derfor dumper computere til matematik' omtales en episode under Golf krigen.
    Hvor mange amerikanske soldater mistede livet under angrebet ?
+   28.
+   
    Ingeniøren valgte tallet 0.1 som sekund-tik. 
    Kan du angive et tal ingeniøren istedet skulle have valgt ? 
+1/2-tik (0.5 sek).
