@@ -1,8 +1,9 @@
 // Modifikation af Tobias M og Simon A.
+// Github repository URL: https://github.com/Tencelll/Tobias-M-2d1
+// firkanter.pde kan findes der, samt svar-02.pde (hvilket også kan ses her).
 
 // Active PDE program version.
 // 8-bit Binary to Unsigned integer number
-
 
 Bit[] bits = new Bit[8];    // array with room for 8 on/off Bit instances
 int decimal = 0;
